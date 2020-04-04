@@ -25,4 +25,3 @@ def slacker_file():
 
     return slackerfile()
 
-# xoxp-1004629925682-1005947718707-1013237996563-85c053b2c268b1af84ab6ed097003294
